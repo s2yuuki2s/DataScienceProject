@@ -56,8 +56,8 @@ DATASCIENCEPROJECT/
 │
 ├─ .gitignore
 ├─ requirements.txt
-└─ README.md
-
+└─ README.md\
+```
 ## ⚙️ Cách chạy project
 1. Clone repository:
    ```bash
