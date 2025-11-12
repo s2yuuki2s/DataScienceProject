@@ -1,0 +1,18 @@
+# Data manipulation & visualization
+numpy
+pandas
+matplotlib
+seaborn
+
+# Data crawling
+requests
+selenium
+
+# Machine learning
+scikit-learn
+xgboost
+
+# Notebook environment
+jupyter
+ipykernel
+tqdm
