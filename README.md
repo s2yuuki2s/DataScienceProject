@@ -3,12 +3,12 @@
 Đây là dự án môn học môn *Nhập môn Khoa học dữ liệu* nhằm tìm hiểu quá trình thu thập dữ liệu bằng các crawl data và sử dụng các mô hình học máy để trả lời các câu hỏi từ dữ liệu.
 
 ## 📚 Mục lục
-- [Giới thiệu](#giới-thiệu)
-- [Dữ liệu](#dữ-liệu)
-- [Quy trình thực hiện](#quy-trình-thực-hiện)
-- [Cấu trúc thư mục](#cấu-trúc-thư-mục)
-- [Cách chạy project](#cách-chạy-project)
-- [Thành viên nhóm / Tác giả](#nhóm-thực-hiện)
+- Giới thiệu
+- Dữ liệu
+- Quy trình thực hiện
+- Cấu trúc thư mục
+- Cách chạy project
+- Thành viên nhóm
 
 ## 🎯 Giới thiệu
 Mục tiêu đồ án là nhằm giúp hiểu được quá trình thu thập dữ liệu, đọc và hiểu dữ liệu, tiền xử lý dữ liệu (bao gồm: chọn feature, loại bỏ missing, duplicate, ...). Và áp dụng các mô hình học máy để phân tích các dữ liệu thu được áp dụng vào các câu hỏi thực tế.
@@ -28,6 +28,7 @@ Dữ liệu bạn có thể tự thu thập bằng code hoặc sử dụng data 
 6. **Evaluation:** so sánh MAE, RMSE, R² giữa các mô hình.
 
 ## 🗂️ Cấu trúc thư mục
+```text
 DATASCIENCEPROJECT/
 ├─ data/
 │   ├─ processed/       # Chứa các dữ liệu đã qua xử lý
